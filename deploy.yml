@@ -10,7 +10,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. It starts with malvin~",
-        "value":"",
+        "value":"malvin~c68jTCZI#23jQMlfcxD0bc2u7-rugLnmHYgGy4QFeJqx82j9Sv8k",
         "required": true
         
       },
@@ -18,7 +18,7 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "233537494386"
       
        },
       "TIMEZONE": {
